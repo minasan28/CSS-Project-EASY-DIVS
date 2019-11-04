@@ -1,0 +1,115 @@
+body{
+	background-color: #F6F6F6
+}
+#painting {
+	background-color: #FFF4DB;
+	height: 400px;
+	width: 400px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 30px;
+	box-shadow: 10px 10px 10px;
+}
+
+#toprow{
+	height: 290px;
+	background-color: red;
+}
+
+.right {
+	float: right;
+}
+
+#bigbox{
+	height: 290px;
+	width: 290px;
+}
+
+.red {
+background-color: #ff0000;
+
+}
+
+#divider1 {
+	height: 290px;
+	width: 10px;
+	background-color: black;
+}
+
+#topleftcolumn {
+	width: 100px;
+	height: 290px;
+	background-color: #6699ff;
+}
+
+#box1 {
+	height: 140px;
+	width: 100px;
+}
+
+#b1divider {
+	height: 10px;
+	width: 100px;
+	background-color: black;
+}
+
+#box2 {
+	height: 140px;
+	width: 100px;
+}
+
+
+#bottomrow {
+	height: 100px;
+	width:  400px;
+}
+	#brdivider {
+		float: top;
+		width: 400px;
+		height: 10px;
+		background-color: black;
+	}
+
+	#leftbox {
+		float: left;
+		width: 100px;
+		height: 100px;
+		background-color: #66ff66;
+	}
+
+	#lbdivider {
+		float: left;
+		height: 100px;
+		width: 10px;
+		background-color: black;
+
+	}
+
+	#mediumbox {
+		float: left;
+		height: 100px;
+		width: 260px;
+		background-color: #ff66ff;
+	}
+
+	#mbdivider {
+		float: left;
+		height: 100px;
+		width: 10px;
+		background-color: black;
+
+	}
+
+	#tinybox1 {
+		float: left;
+		height: 45px;
+		width: 20px;
+		background-color: #ffff00;
+	}
+
+	#tbdivider {
+		float: left;
+		height: 10px;
+		width: 20px;
+		background-color: black;
+	}
